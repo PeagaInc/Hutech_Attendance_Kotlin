@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--dimes for design 3-->
+    <dimen name="headerTextSize">22sp</dimen>
+    <dimen name="newsMoreTextSize">12sp</dimen>
+    <dimen name="loginCardRadius">20dp</dimen>
+    <dimen name="loginViewsMargin">20dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+    <dimen name="card_margin">10dp</dimen>
+
+
+    <!--    Dashboard-->
+    <dimen name="normalPadding">20dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="horizontal_dashboard">32dp</dimen>
+    <dimen name="drawable_left">5dp</dimen>
+
+    <dimen name="vertical_search">10dp</dimen>
+    <dimen name="horizontal_card">8dp</dimen>
+
+    <dimen name="horizontal_dashboard_course">8dp</dimen>
+
+
+    <!--    Dialog-->
+    <dimen name="dialog_width">320dp</dimen>
+    <dimen name="dialog_height">450dp</dimen>
+
+</resources>
