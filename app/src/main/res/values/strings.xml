@@ -115,5 +115,6 @@
     <string name="upload">Upload</string>
     <string name="take_a_photo">Take A Photo</string>
     <string name="close">Close</string>
+    <string name="tack_picture">tack picture</string>
 
 </resources>

@@ -64,12 +64,12 @@
         android:layout_marginBottom="20dp">
 
         <br.com.simplepass.loading_button_lib.customViews.CircularProgressButton
-            android:id="@+id/cirClose"
+            android:id="@+id/cirCheckin"
             android:layout_width="300dp"
             android:layout_height="48dp"
             android:layout_gravity="center"
             android:background="@drawable/face_button_check"
-            android:text="@string/close"
+            android:text="@string/check"
             android:textColor="@color/whiteTextColor"
             android:textStyle="bold" />
     </LinearLayout>

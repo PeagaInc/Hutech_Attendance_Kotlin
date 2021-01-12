@@ -31,7 +31,7 @@
                 android:layout_height="48dp"
                 android:layout_gravity="center"
                 android:background="@drawable/face_button_check"
-                android:text="@string/check"
+                android:text="@string/tack_picture"
                 android:textColor="@color/whiteTextColor"
                 android:textStyle="bold" />
         </LinearLayout>
